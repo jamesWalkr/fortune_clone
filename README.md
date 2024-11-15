@@ -1,2 +1,2 @@
 # fortune_clone
-This is clone of fortune commands written in python (work in progress)
+This is a clone of the fortune command written in python (still a work in progress).
